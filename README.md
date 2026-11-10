@@ -2,7 +2,7 @@
 
 GMXE 固件烧录器在线演示页（单文件 HTML，HTTPS）。
 
-**打开：<https://gmx.github.io/daisy_flasher_demo/>**
+**打开：<https://gmxe.github.io/daisy_flasher_demo/>**
 
 ## 使用
 
